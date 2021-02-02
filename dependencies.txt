@@ -1,0 +1,3 @@
+wget
+win10toast-persist
+PILlow

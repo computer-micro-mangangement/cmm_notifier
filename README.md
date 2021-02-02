@@ -3,7 +3,7 @@ This is one simple module of the CMM system. This module can be used to send not
 
 Here a quick sumnmary of all (future) modules:<br>
 **_required:_** [CMM Server](https://github.com/computer-micro-mangangement/cmm_server)<br>
-CMM Hub (not avialable yet)<br>
+[CMM Hub](https://github.com/computer-micro-mangangement/cmm_hub) (not avialable yet)<br>
 [CMM Notifier](https://github.com/computer-micro-mangangement/cmm_notifier) (in transition from indepentent to cmm-module) (this is a module wich will enable you to send notification to specific machines on your managed-network)<br>
-CMM Monitor (not avialable yet) (module to monitor your PC's performance (similar to the "Task Manager"(win), "top"(lin), "htop"(lin), etc.))<br>
+[CMM Monitor](https://github.com/computer-micro-mangangement/cmm_monitor) (not avialable yet) (module to monitor your PC's performance (similar to the "Task Manager"(win), "top"(lin), "htop"(lin), etc.))<br>
 
